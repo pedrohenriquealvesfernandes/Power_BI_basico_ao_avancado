@@ -10,7 +10,7 @@ Projeto desenvolvido com base no curso Power BI - Básico ao Avançado (Prime Cu
 * Criação de dashboards interativos com gráficos de barras, colunas, rosca, mapas, cartões, matrizes, indicadores e Sparklines, aplicando formatação condicional, títulos e textos dinâmicos. Implementação de recursos de navegação, menus retráteis, botões, animações e interatividade.
 ## 🎟 Acesso ao projeto
 
-<p style="bold"><u>[Power BI - Básico ao Avançado](https://app.powerbi.com/view?r=eyJrIjoiM2MyMDcyNGUtYThlYy00Y2U2LWJkMmQtYmNlZDhhYjFiNDY5IiwidCI6IjM4MDQwNjEzLTI2MDItNDJjMC1iNDVkLWU4YTk4ZjgzY2Q1MCJ9)**</u></p>
+<p><strong><u><a href="https://app.powerbi.com/view?r=eyJrIjoiM2MyMDcyNGUtYThlYy00Y2U2LWJkMmQtYmNlZDhhYjFiNDY5IiwidCI6IjM4MDQwNjEzLTI2MDItNDJjMC1iNDVkLWU4YTk4ZjgzY2Q1MCJ9">[Power BI - Básico ao Avançado]</a></u></strong></p>
 
 
 ## 🖼 Imagens do projeto
